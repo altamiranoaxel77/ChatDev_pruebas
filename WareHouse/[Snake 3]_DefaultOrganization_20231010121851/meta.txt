@@ -1,0 +1,30 @@
+Task:
+[Desarrolla un juego de la serpiente en Python utilizando la biblioteca Pygame. El juego debe cumplir con las siguientes especificaciones: 1) La serpiente debe comenzar con una longitud de 1 y moverse en una ventana con un fondo de color. Cuando la serpiente come una manzana, su longitud debe aumentar en 1. 2) Si la serpiente choca con los bordes de la ventana o consigo misma, el juego debe terminar, y se debe mostrar un mensaje de 'Juego terminado'. 3)En la parte superior de la ventana, agrega un contador visible que muestre el número de manzanas comidas por la serpiente. 4) La serpiente debe ser controlada por el usuario a través de las teclas de flecha. Asegúrate de que el juego sea interactivo y responda a las acciones del jugador de manera adecuada. Elige un esquema de colores atractivo y muestra la longitud actual de la serpiente y el contador de manzanas comidas de manera clara en la ventana. Por favor, proporciona el código necesario para implementar este juego en Python utilizando Pygame. Asegúrate de que sea jugable y cumpla con las especificaciones mencionadas.]
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

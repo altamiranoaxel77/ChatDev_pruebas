@@ -1,0 +1,30 @@
+Task:
+[crear el juego de la serpiete (verde), donde se haga mas grande cada vez que come una manzana (roja). El juego termina cuando la serpiete choca consigo misma o con los bordes de la ventana. Cuando la serpiente pierde dar la opcion de volver a jugar]
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+6.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

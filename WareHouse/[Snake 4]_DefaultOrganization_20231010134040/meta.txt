@@ -1,0 +1,30 @@
+Task:
+[Desarrolla un juego de la serpiente en Python utilizando la biblioteca Pygame con las siguientes especificaciones: 1) La serpiente debe comenzar con una longitud de 1 y moverse en una ventana con un fondo de color. Cuando la serpiente come una manzana, su longitud debe aumentar en 1. Implementa un contador visible en la parte superior de la ventana que muestre el número de manzanas comidas por la serpiente.2) Si la serpiente choca con los bordes de la ventana o consigo misma, el juego debe terminar, y se debe mostrar un mensaje de 'Juego terminado'.3). Agrega un menú inicial que permita al jugador elegir entre las opciones 'Jugar' o 'Salir'. El menú debe ser interactivo y responder a las acciones del jugador.4)Después de que el jugador pierda el juego, muestra un mensaje de 'Game Over' en la pantalla durante 3 segundos y luego regresa automáticamente al menú inicial.5)El menú inicial debe ser accesible en cualquier momento, permitiendo al jugador volver al menú principal en cualquier momento.6).Implementa un sistema de puntuación que muestre la puntuación actual del jugador en la pantalla mientras juega.7)Agrega un temporizador para llevar un registro del tiempo transcurrido durante la partida. Asegúrate de que el juego sea interactivo, responda a las acciones del jugador de manera adecuada y proporcione una experiencia de juego agradable. Elige un esquema de colores atractivo y muestra la longitud actual de la serpiente, el contador de manzanas comidas, el mensaje de 'Game Over' y la puntuación de manera clara en la ventana. Por favor, proporciona el código necesario para implementar todas estas funcionalidades en Python utilizando Pygame, y asegúrate de que el juego cumpla con las especificaciones mencionadas.]
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

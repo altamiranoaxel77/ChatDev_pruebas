@@ -1,0 +1,30 @@
+Task:
+[Desarrolla un juego clásico de la serpiente en el que el jugador controle una serpiente en una cuadrícula. El juego debe incluir las siguientes características: 1) Menú Principal: 1.a) El juego debe comenzar con un menú que ofrezca dos opciones: 'Jugar' o 'Salir'. 1.b) El jugador podrá seleccionar 'Jugar' para iniciar una nueva partida o 'Salir' para cerrar el juego. 2)Jugabilidad: 2.a)La serpiente debe comenzar en una posición central y moverse en una dirección predeterminada. 2.b)El jugador debe ser capaz de controlar la dirección de la serpiente utilizando las teclas de flecha (arriba, abajo, izquierda, derecha). 2.c)Deben aparecer manzanas de forma aleatoria en la cuadrícula. 2.d)Cuando la serpiente colisione con una manzana, esta deberá desaparecer y la serpiente deberá crecer en longitud. 2.e)Un contador en la parte superior de la ventana debe mostrar la cantidad de manzanas comidas. 2.f)El juego debe terminar cuando la serpiente colisione consigo misma o con los bordes de la ventana. 2.g)Al finalizar el juego, el jugador deberá regresar al Menú Principal. 3)Interfaz de Usuario: La interfaz de usuario debe ser clara e intuitiva, con una cuadrícula que represente el campo de juego y una ventana que muestre las manzanas comidas. 4)Requisitos Técnicos: 4.a)Utiliza el lenguaje de programación y las tecnologías que consideres adecuadas para el desarrollo del juego. 4.b)Asegúrate de que el juego tenga un aspecto atractivo y una jugabilidad fluida. Por favor, desarrolla este juego de la serpiente siguiendo estas pautas y asegúrate de que sea fácil de entender y jugar para los usuarios. Si tienes alguna pregunta adicional o necesitas más detalles, no dudes en preguntar.]
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
